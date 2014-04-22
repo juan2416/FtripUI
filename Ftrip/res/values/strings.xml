@@ -4,5 +4,14 @@
     <string name="app_name">Ftrip</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_agenda">Agenda</string>
+    <string name="title_activity_calendario">Calendario</string>
+    <string name="title_activity_invitar_amigos">InvitarAmigos</string>
+    <string name="title_activity_evento">Evento</string>
+    <string name="title_activity_itinerario_mapa">ItinerarioMapa</string>
+    <string name="title_activity_itinerario_lista">ItinerarioLista</string>
+    <string name="title_activity_hoteles">Hoteles</string>
+    <string name="title_activity_pagos">Pagos</string>
 
 </resources>
